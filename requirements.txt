@@ -4,3 +4,4 @@ fpdf
 datetime
 openpyxl
 pytz
+streamlit-javascript
